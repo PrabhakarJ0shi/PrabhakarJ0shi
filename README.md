@@ -65,7 +65,7 @@ I'm currently looking for **Internships**, **Full-Time Opportunities**, and exci
 
 ### 💻 Languages
 
-C • C++ • Python • JavaScript • HTML • CSS
+C • C++ • Python • JavaScript • HTML • CSS • NodeJS
 
 ### ⚙️ Frameworks & Technologies
 
